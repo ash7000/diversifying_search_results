@@ -1,1 +1,2 @@
-# diversifying_search_results
+# Diversifying top-k search results
+
